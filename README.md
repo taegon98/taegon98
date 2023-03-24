@@ -26,3 +26,7 @@ Etc: <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&log
   <a href="https://velog.io/@taegon1998" class="ct">Velog</a>
   <a href="https://www.instagram.com/_leetaegon/" class="ct">Instagram</a>
   <a href="https://github.com/taegon98" class="ct">Github</a>
+
+
+  <a href="https://velog.io/@taegon1998"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://taegon.github.io"/></a>&nbsp
+ 
