@@ -22,14 +22,12 @@ Etc: <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&log
                     <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
                     <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
 ---
+
+### Experiences📜
+
+---
+
 ### Contact📞
-  <a href="https://velog.io/@taegon1998" class="ct">Velog</a>
-  <a href="https://www.instagram.com/_leetaegon/" class="ct">Instagram</a>
-  <a href="https://github.com/taegon98" class="ct">Github</a>
-
-
   <a href="https://velog.io/@taegon1998"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://taegon.github.io"/></a>
-  <a href="https://www.instagram.com/_leetaegon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_leetaegon/"/></a>&nbsp
+  <a href="https://www.instagram.com/_leetaegon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_leetaegon/"/></a>
   <a href="mailto:taegon1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=taegon1998@gmail.com"/></a>
-
-
