@@ -21,9 +21,23 @@ Etc: <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&log
                     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
                     <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
                     <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+                    
 ---
 
 ### Experiences📜
+- 멋쟁이사자처럼 10기 (동아리 부원)
+- 멋쟁이사자처럼 전국 아이디어톤 2등
+- 넥슨 서포터즈 해커톤 최우수상
+- 대구를 빛내는 해커톤 장려상
+- 리빙랩 아이디어 공모전 우수상
+- 멋쟁이사자처럼 11기 (동아리 회장)
+
+---
+
+### Goal📚
+- 1일 2 코테 문제풀이!
+- Spring boot 꾸준히 공부하기!</p>
+- 건강이 최고!!! 운동 꾸준히 하기!</p>
 
 ---
 
