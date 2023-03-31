@@ -29,7 +29,7 @@ Etc: <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&log
 - 멋쟁이사자처럼 10기 (Member)
 - 멋쟁이사자처럼 전국 아이디어톤 2등
 - Nexon Supporters Hackathon 최우수상
-- Participate in Nexon Super 해커톤
+- Participate in Nexon Super Hackathon
 - 대구를 빛내는 해커톤 장려상
 - Living Lab Ideathon 우수상
 - Outsourcing Project (Ed)
