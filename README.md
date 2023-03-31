@@ -26,18 +26,18 @@ Etc: <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&log
 
 ### Experiences📜
 #### Year of 2022✨
-- 멋쟁이사자처럼 10기 (동아리 부원)
+- 멋쟁이사자처럼 10기 (Member)
 - 멋쟁이사자처럼 전국 아이디어톤 2등
-- 넥슨 서포터즈 해커톤 최우수상
-- Participate in 넥슨 슈퍼 해커톤
+- Nexon Supporters Hackathon 최우수상
+- Participate in Nexon Super 해커톤
 - 대구를 빛내는 해커톤 장려상
-- 리빙랩 아이디어 공모전 우수상
+- Living Lab Ideathon 우수상
 - Outsourcing Project (Ed)
 
 #### Year of 2023✨
+- 멋쟁이사자처럼 11기 (Representative)
 - 삼성전자 동계 SW 알고리즘 특강 수료
 - Participate in 현대모비스 Mobility Hackathon
-- 멋쟁이사자처럼 11기 (동아리 회장)
 ---
 
 ### Goal📚
