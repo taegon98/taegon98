@@ -25,19 +25,25 @@ Etc: <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&log
 ---
 
 ### Experiences📜
+#### Year of 2022✨
 - 멋쟁이사자처럼 10기 (동아리 부원)
 - 멋쟁이사자처럼 전국 아이디어톤 2등
 - 넥슨 서포터즈 해커톤 최우수상
+- Participate in 넥슨 슈퍼 해커톤
 - 대구를 빛내는 해커톤 장려상
 - 리빙랩 아이디어 공모전 우수상
-- 멋쟁이사자처럼 11기 (동아리 회장)
+- Outsourcing Project (Ed)
 
+#### Year of 2023✨
+- 삼성전자 동계 SW 알고리즘 특강 수료
+- Participate in 현대모비스 Mobility Hackathon
+- 멋쟁이사자처럼 11기 (동아리 회장)
 ---
 
 ### Goal📚
 - 1일 2 코테 문제풀이!
-- Spring boot 꾸준히 공부하기!</p>
-- 건강이 최고!!! 운동 꾸준히 하기!</p>
+- Spring boot 꾸준히 공부하기!
+- 건강이 최고!!! 운동 꾸준히 하기!
 
 ---
 
