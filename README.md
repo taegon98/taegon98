@@ -20,7 +20,6 @@ Knowledgeable: <img src="https://img.shields.io/badge/c++-00599C?style=for-the-b
                 
 Etc: <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
                     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-                    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
                     <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
                     
 ---
@@ -42,7 +41,7 @@ Etc: <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&log
 ---
 
 ### Goal📚
-- 1일 2 코테 문제풀이!
+- 1일 1 코테 문제풀이!
 - Spring boot 꾸준히 공부하기!
 - 건강이 최고!!! 운동 꾸준히 하기!
 
