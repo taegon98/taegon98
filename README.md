@@ -1,4 +1,4 @@
-### 반갑습니다.😀
+### 🏫Kyungpook Nat'l Univ. Computer Science and Engineering (Undergraduate)💡Backend
 
 ---
 
