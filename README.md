@@ -4,7 +4,6 @@
 
 ### Status✨
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taegon1998)](https://solved.ac/taegon1998/) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taegon98&layout=compact)](https://github.com/taegon98/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taegon98&show_icons=true&theme=tokyonight)<br/>
 
 ---
@@ -21,22 +20,6 @@ Knowledgeable: <img src="https://img.shields.io/badge/c++-00599C?style=for-the-b
 Etc: <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
                     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
                     
----
-
-### Experiences📜
-- 경북대학교 멋쟁이사자처럼 10기 활동
-- 멋쟁이사자처럼 전국 아이디어톤 2등
-- Nexon Supporters Hackathon 최우수상
-- 경북대학교 멋쟁이사자처럼 11기 대표
-- 삼성전자 동계 SW 알고리즘 특강 수료
-- LGSI Intership
----
-
-### Goal📚
-- 1일 1 코테 문제풀이!
-- Spring boot 꾸준히 공부하기!
-- 건강이 최고!!! 운동 꾸준히 하기!
-
 ---
 
 ### Contact📞
