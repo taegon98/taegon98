@@ -1,12 +1,12 @@
 <div align=center>
 
 ## Footprint 🦶
-✔️ 경북대학교 컴퓨터학부 학사</br>
+🎓 경북대학교 컴퓨터학부 학사</br>
 🦁 경북대학교 멋쟁이사자처럼 10기 아기사자</br>
 🦁 경북대학교 멋쟁이사자처럼 11기 대표</br>
-✔️ GDSC 2기 Backend 활동</br>
-✔️ LG Soft India Intership 수료</br>
-✔️ HMG Softeer bootcamp 3기 활동</br>
+🌏 GDSC 2기 Backend 활동</br>
+👨‍💻 LG Soft India Intership 수료</br>
+🚗 HMG Softeer bootcamp 3기 활동</br>
 </br></br>
 
  ## Problem Solving ✍️
