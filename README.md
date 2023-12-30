@@ -1,28 +1,24 @@
-### 🏫Kyungpook Nat'l Univ. Computer Science and Engineering (Undergraduate)💡Backend
+<div align=center>
 
----
+## Footprint 🦶
+✔️ 경북대학교 컴퓨터학부 학사</br>
+🦁 경북대학교 멋쟁이사자처럼 10기 아기사자</br>
+🦁 경북대학교 멋쟁이사자처럼 11기 대표</br>
+✔️ GDSC 2기 Backend 활동</br>
+✔️ LG Soft India Intership 수료</br>
+✔️ HMG Softeer bootcamp 3기 활동</br>
+</br></br>
 
-### Status✨
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taegon1998)](https://solved.ac/taegon1998/) 
+ ## Problem Solving ✍️
+ </a>
+ 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taegon1998)](https://solved.ac/taegon1998/) <br/>
+<br/>
+  
+## Github Stats 🔥
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taegon98&show_icons=true&theme=tokyonight)<br/>
 
----
-
-### Tech Stack👾
-Strong: <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-                
-
-Knowledgeable: <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-                <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-                <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-                
-Etc: <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-                    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-                    
----
-
-### Contact📞
+## Contact 📞
   <a href="https://velog.io/@taegon1998"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://taegon.github.io"/></a>
-  <a href="https://www.instagram.com/_leetaegon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_leetaegon/"/></a>
   <a href="mailto:taegon1998@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=taegon1998@gmail.com"/></a>
+</div>
